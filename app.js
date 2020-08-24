@@ -6,4 +6,5 @@ fetch(url)
         let = img = document.createElement('img')
         img.setAttribute('src', data[0]. flag)
         body.appendChild(img)
+        
     })
